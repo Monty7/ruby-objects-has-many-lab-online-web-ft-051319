@@ -1,11 +1,9 @@
 class Author 
-  attr_accessor :name, :posts
-  
-  def intialize(name)
+  def initialize(name)
     @name = name
   end
   
-  def name
+  def add_post(post)
     
   end
   
