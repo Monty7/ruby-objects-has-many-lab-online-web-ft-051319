@@ -25,7 +25,4 @@ class Artist
     Song.all.size
   end
   
-  def artist_name
-    
-  end
 end
